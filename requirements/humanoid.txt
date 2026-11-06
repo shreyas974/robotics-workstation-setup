@@ -1,0 +1,7 @@
+# env "humanoid": legged/humanoid locomotion and whole-body control
+# (pinocchio + crocoddyl come from conda-forge; jax is installed by the installer with or without CUDA)
+playground
+mujoco
+onshape-to-robot
+mediapy
+ipykernel

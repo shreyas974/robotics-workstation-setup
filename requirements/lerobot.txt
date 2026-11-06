@@ -1,0 +1,4 @@
+# env "lerobot": robot learning from demonstrations (ACT, Diffusion Policy, SmolVLA) + speech
+lerobot[smolvla,training,dataset,pusht,feetech,dynamixel]
+faster-whisper
+ipykernel

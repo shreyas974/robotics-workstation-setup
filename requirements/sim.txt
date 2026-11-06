@@ -1,0 +1,9 @@
+# env "sim": physics simulation + reinforcement learning
+mujoco
+pybullet
+gymnasium[mujoco,classic-control]
+stable-baselines3
+open3d
+numpy
+matplotlib
+ipykernel

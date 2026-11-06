@@ -1,0 +1,13 @@
+{
+  "sim_seconds": 180.9,
+  "distance_m": 76.05,
+  "collisions": 0,
+  "collided_with": {},
+  "min_lidar_range_m": 0.671,
+  "mean_speed_mps": 0.42,
+  "coverage_cells": 81,
+  "coverage_m2": 20.25,
+  "mode_share": {
+    "cruise": 1.0
+  }
+}
